@@ -11,7 +11,7 @@ My github page is https://github.com/Forthyse
 
 Lab 1, Part 1,
 
-The very first lab was one of my favorites due to the excitement that followed with it being the very first lab I did as a Computer Science student. It taught the basics, but thats what was exciting about the lab. It was the stepping stone, and overall the start of my journey in my path as someone who wants to pursue a life in Computer Science. It involved the usage of our header #include <iostream>, creating our first main function, and creating a statement that has the output of "Hello Tuffy!". This is truly what captivated me as it gave me an insight of what my journey in this major would look like, and overall what my journey as a computer scientist will become.
+The very first lab was one of my favorites due to the excitement that followed with it being the very first lab I did as a Computer Science student. It taught the basics, but thats what was exciting about the lab. It was the stepping stone, and overall the start of my journey in my path as someone who wants to pursue a life in Computer Science. It involved the usage of our header #include iostream, creating our first main function, and creating a statement that has the output of "Hello Tuffy!". This is truly what captivated me as it gave me an insight of what my journey in this major would look like, and overall what my journey as a computer scientist will become.
 
 Lab 7, Part 1, 
 
